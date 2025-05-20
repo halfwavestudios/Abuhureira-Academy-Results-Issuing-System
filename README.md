@@ -1,8 +1,4 @@
-Absolutely! Here’s a **very detailed `README.md`** tailored for your Abuhureira Academy Results Issuing System project. It includes comprehensive explanations, setup instructions, usage details, and more — perfect for developers, maintainers, and users.
-
----
-
-# 📚 Abuhureira Academy Results Issuing System
+📚 Abuhureira Academy Results Issuing System
 
 A secure, web-based academic results platform designed specifically for **Abuhureira Academy**. This system enables efficient uploading, storage, and viewing of student exam results by administrators, teachers, and parents. It supports CSV-based result uploads, detailed performance comparisons across terms, and a role-based access control system to protect sensitive student data.
 
